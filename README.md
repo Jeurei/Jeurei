@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Read0nly
-- 👀 I’m interested in React, NextJS, NodeJS
+- 👀 I’m interested in React, NextJS,TypeScript,NodeJS
 - 🌱 I’m currently learning NextJs
 - 💞️ I’m looking to collaborate on ... nothing
 - 📫 How to reach me ihatemat@yandex.ru
